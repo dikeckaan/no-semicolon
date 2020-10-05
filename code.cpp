@@ -1,10 +1,8 @@
-
 #include <iostream>
 #include <string>
-//using namespace std;
 int main()
 {
-  if(std::cout << "Hello, ")
+  if(std::cout << "Hello, THERE IS NO SEMICOLON")
   {
   }
 }
